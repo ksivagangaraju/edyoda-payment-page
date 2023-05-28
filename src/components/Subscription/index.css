@@ -1,0 +1,144 @@
+.subscription-container {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px;
+    gap: 28px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.signup-and-subscribe-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.signup-subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.number {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: -0.015em;
+    color: #FFFFFF;
+    width: 38px;
+    height: 38px;
+    background: #0096FF;
+    border-radius: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.01em;
+    color: #3C4852;
+    margin: 4px 0 0 0;
+}
+
+.subscribe-plan {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 125.3%;
+    text-align: center;
+    color: #3C4852;
+    margin: 0;
+}
+
+.hr-line {
+    height: 1px;
+    background-color: #BEBEBE;
+    width: 100%;
+}
+
+.subscription-fee-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+}
+
+.limited-time-offer-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+    gap: 4px;
+    background: linear-gradient(135deg, rgba(222, 67, 19, 0.2) 0%, rgba(222, 67, 19, 0.2) 0.75%, rgba(222, 67, 19, 0.2) 2.92%, rgba(222, 68, 20, 0.2) 6.37%, rgba(223, 69, 21, 0.2) 10.97%, rgba(223, 72, 22, 0.2) 16.59%, rgba(224, 75, 24, 0.2) 23.1%, rgba(225, 80, 27, 0.2) 30.37%, rgba(227, 86, 31, 0.2) 38.27%, rgba(229, 94, 36, 0.2) 46.66%, rgba(231, 104, 43, 0.2) 55.41%, rgba(235, 117, 51, 0.2) 64.39%, rgba(238, 132, 60, 0.2) 73.47%, rgba(243, 149, 71, 0.2) 82.52%, rgba(248, 169, 84, 0.2) 91.41%, rgba(254, 193, 99, 0.2) 100%);
+    border-radius: 8px;
+}
+
+.limited-time-offer-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    color: #DE4313;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.offer-valid-text {
+        font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    color: #DE4313;
+    margin: 0;
+}
+
+.cancel-button {
+    border: 2px solid #F77171;
+    border-radius: 4px;
+    padding: 18px;
+    gap: 10px;
+    text-align: center;
+    background-color: transparent;
+    width: 48%;
+    color: #F77171;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    cursor: pointer;
+    outline: none;
+}
+
+.cancel-button:hover {
+    color: #FFFFFF;
+    background-color: #F77171;
+}
+
+.proceed-button {
+    border: 2px solid #47BA68;;
+    border-radius: 4px;
+    padding: 18px;
+    gap: 10px;
+    text-align: center;
+    background-color: #47BA68;
+    width: 48%;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    outline: none;
+    cursor: pointer;
+}

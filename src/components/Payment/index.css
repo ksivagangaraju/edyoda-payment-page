@@ -1,0 +1,64 @@
+.payment-container {
+    flex-grow: 2;
+    background-image: url('https://res.cloudinary.com/dpmyvq5te/image/upload/v1685183978/Back_Ground1_anikpl.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.pay-container {
+    width: 1700px;
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+
+.course-details-container {
+    width: 50%;
+}
+
+.access-heading {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    margin: 0;
+    margin-bottom: 64px;
+}
+
+.details {
+    padding: 0;
+    list-style-type: none;
+}
+
+.detail-list {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.icon {
+    width: 68px;
+    height: 68px;
+    margin-right: 64px;
+}
+
+.detail-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.text-color-blue {
+    color: #0096FF
+}
