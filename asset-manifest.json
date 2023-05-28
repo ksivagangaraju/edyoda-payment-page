@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edyoda-payment-page/static/css/main.7babed56.css",
+    "main.js": "/edyoda-payment-page/static/js/main.76457887.js",
+    "static/js/787.58924f86.chunk.js": "/edyoda-payment-page/static/js/787.58924f86.chunk.js",
+    "index.html": "/edyoda-payment-page/index.html",
+    "main.7babed56.css.map": "/edyoda-payment-page/static/css/main.7babed56.css.map",
+    "main.76457887.js.map": "/edyoda-payment-page/static/js/main.76457887.js.map",
+    "787.58924f86.chunk.js.map": "/edyoda-payment-page/static/js/787.58924f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7babed56.css",
+    "static/js/main.76457887.js"
+  ]
+}
